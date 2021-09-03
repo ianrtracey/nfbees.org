@@ -12,7 +12,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Image src="/bee.png" alt="Vercel Logo" height={768} width={768} />
+        <Image src="/images/bee.png" alt="Bee" height={768} width={768} />
 
       </main>
 
